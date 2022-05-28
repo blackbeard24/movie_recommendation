@@ -1,7 +1,7 @@
 import os, random
 
 #Path to the directory of movies
-path = "/home/dennis/Videos/Movies/To Do"
+path = "/path/to/the/movie/directory"
 dirs = os.listdir(path)
 
 l = len(dirs)
